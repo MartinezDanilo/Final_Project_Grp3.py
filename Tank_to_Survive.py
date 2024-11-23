@@ -28,7 +28,7 @@ BLUE = (0, 0, 255)
 
 # Set up the screen
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Aircraft Fighter")
+pygame.display.set_caption("Tank to Survive")
 
 # Load images
 player_image = pygame.image.load("tank.png")  # Ensure this image exists
